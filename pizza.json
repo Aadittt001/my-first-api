@@ -2,7 +2,7 @@
   "api_name": "My First Pizza API",
   "status": "active",
   "menu": {
-    "margherita": 10.99,
+    "margherita": 10.99*2,
     "pepperoni": 12.99,
     "veggie": 11.50
   },
