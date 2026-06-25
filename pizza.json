@@ -1,11 +1,11 @@
   {
-  "api_name": "My First Pizza API"
-  "status": "active"
+  "api_name": "My First Pizza API",
+  "status": "active",
   "menu": {
-    "margherita": 10.99
-    "pepperoni": 12.99
+    "margherita": 10.99,
+    "pepperoni": 12.99,
     "veggie": 11.50
-  }
+  },
   "message": "Welcome to my learning journey!"
 }
 
